@@ -1,4 +1,4 @@
-# Olá! Eu sou Emerson Gabriel 👋
+# Olá! Eu sou Emerson Gabriel 
 
 💻 Desenvolvedor Web em formação, atualmente trabalhando em projetos freelance e aprimorando minhas habilidades por meio de experiências práticas.
 
